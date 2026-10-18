@@ -8,6 +8,6 @@
 	"repository": "https://github.com/pierotofy/webodm-blender-render",
 	"tags": ["blender", "render", "gltf", "3d"],
 	"homepage": "https://github.com/pierotofy/webodm-blender-render",
-	"experimental": false,
+	"experimental": true,
 	"deprecated": false
 }
