@@ -1,0 +1,13 @@
+{
+	"name": "Blender Render",
+	"webodmMinVersion": "3.3.1",
+	"description": "Render the textured model from the current 3D view with Blender, or export a ready-to-render Blender scene.",
+	"version": "1.0.0",
+	"author": "Piero Toffanin",
+	"email": "pt@masseranolabs.com",
+	"repository": "https://github.com/WebODM/blender-render",
+	"tags": ["blender", "render", "gltf", "3d"],
+	"homepage": "https://github.com/WebODM/blender-render",
+	"experimental": false,
+	"deprecated": false
+}
